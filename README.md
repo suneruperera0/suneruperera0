@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [suneru.ca](suneru.ca)
 
-- 💪 Outside of work, I like: [going to the gym, playing basketball & playing soccer.](going to the gym, playing basketball & playing soccer.)
-
 - 📫 How to reach me **pererasuneru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

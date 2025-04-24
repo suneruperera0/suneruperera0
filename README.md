@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Suneru</h1>
 <h3 align="center">Passionate Full-Stack & AI Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suneruperera0" alt="suneruperera0" /></a> </p>
+- 🏫 I’m currently a Computer Science & Business Double Major @ **The University of Waterloo**
 
-- 🔭 I’m currently a Computer Science & Business Double Major @ **The University of Waterloo**
-
-- 📄 I'm currently working as a Full-Stack Dev @ **MRS**
+- 💼📊 I'm currently working as a Full-Stack Dev @ **MRS**
 
 - 👨‍💻 All of my projects are available at [suneru.ca](suneru.ca)
+
+- 💪 Outside of work, I like: [going to the gym, playing basketball & playing soccer.](going to the gym, playing basketball & playing soccer.)
 
 - 📫 How to reach me **pererasuneru@gmail.com**
 

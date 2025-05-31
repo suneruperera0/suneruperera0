@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Suneru</h1>
-<h3 align="center">Passionate Full-Stack & AI Engineer</h3>
 
 - 🏫 I’m currently a Computer Science & Business Double Major @ **The University of Waterloo**
 

@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently a Computer Science & Business Double Major @ **The University of Waterloo**
 
-- 💼📊 I'm currently working as a Full-Stack Dev @ **MRS**
+- 💼📊 I'm currently working as a Full-Stack Dev @ **MRS** & **Vendle** 
 
 - 👨‍💻 All of my projects are available at [suneru.ca](suneru.ca)
 

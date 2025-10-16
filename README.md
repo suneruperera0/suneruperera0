@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Suneru</h1>
 
-- 🏫 I’m currently a Computer Science & Business Double Major @ **The University of Waterloo**
+- 🏫 I’m currently a Computer Science & Business Double Degree Student @ **The University of Waterloo**
 
-- 💼📊 I'm currently working as a Full-Stack Dev @ **MRS** & **Vendle** 
+- 💼📊 I'm currently working as a Full-Stack Dev @ **MRS** & **Vendle**, and joining **Shopify** for Winter 2026 
 
 - 👨‍💻 All of my projects are available at [suneru.ca](suneru.ca)
 

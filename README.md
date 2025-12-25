@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Suneru</h1>
+<h1 align="center">Hey, I'm Suneru</h1>
 
 - 🏫 I’m currently a Computer Science & Business Double Degree Student @ **The University of Waterloo**
 
